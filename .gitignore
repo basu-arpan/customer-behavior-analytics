@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+*.db
+data/customer_behavior_enriched.csv
+data/sql_outputs/
+docs/*.png
+.env
+venv/
+.venv/
